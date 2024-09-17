@@ -1,3 +1,6 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Signika+Negative:wght@300..700&display=swap');
+
 *,
 * ::before,
 * ::after {
@@ -13,4 +16,12 @@
 img {
     display: block;
     max-width: 100%;
+}
+
+h1, h3, .name {
+    font-family: "Signika Negative", sans-serif;
+}
+
+h2, p, button, a {
+    font-family: "Open Sans", sans-serif;
 }
