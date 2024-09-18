@@ -11,6 +11,7 @@
 
 :root {
     scroll-behavior: smooth;
+    --color-akcent: #eb6d2f;
 }
 
 img {
@@ -24,4 +25,13 @@ h1, h3, .name {
 
 h2, p, button, a {
     font-family: "Open Sans", sans-serif;
+}
+
+h2 {
+    font-size: 14px;
+}
+
+hr {
+    height: 5px;
+    background-color: var(--color-akcent);
 }
