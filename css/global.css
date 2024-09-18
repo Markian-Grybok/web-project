@@ -12,6 +12,11 @@
 :root {
     scroll-behavior: smooth;
     --color-akcent: #eb6d2f;
+    --color-text: #413939;
+    --colot-title: #5a3733;
+    --color-line: #eb6d2f;
+    --color-button-hover: #f7bd00;
+    --color-price: #f7bd00;
 }
 
 img {
